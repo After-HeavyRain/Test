@@ -1,2 +1,2 @@
 ﻿// See https://aka.tms/new-console-template for more information
-Console.WriteLine("Test");
+Console.WriteLine("Hello,linux");
