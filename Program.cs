@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, SB");
+﻿// See https://aka.tms/new-console-template for more information
+Console.WriteLine("Test");
